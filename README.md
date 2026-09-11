@@ -16,6 +16,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -355,6 +356,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
