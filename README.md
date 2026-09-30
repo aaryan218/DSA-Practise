@@ -40,6 +40,7 @@
 | [3731-find-missing-elements](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/aaryan218/LeetCode-Solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/aaryan218/LeetCode-Solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
 |  |
 | ------- |
