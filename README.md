@@ -21,6 +21,7 @@
 | [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
