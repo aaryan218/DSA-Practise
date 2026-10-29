@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0061-rotate-list) |
@@ -268,6 +270,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/aaryan218/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aaryan218/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
