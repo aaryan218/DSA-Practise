@@ -1,13 +1,18 @@
 class Solution(object):
     def longestPalindrome(self, s):
-        # def longestPalindrome_set(s):
-        ss = set()
-        for letter in s:
-            if letter not in ss:
-                ss.add(letter)
-            else:
-                ss.remove(letter)
-        if len(ss) != 0:
-            return len(s) - len(ss) + 1
+        """
+        :type s: str
+        :rtype: int
+        """
+        count=0
+        for i in set(s):
+            r=s.count(i)//2
+            if r>=1:
+                count+=r
+        
+        r=count*2
+        if r==len(s):
+            return r
         else:
-            return len(s)
+            return r+1
+        
