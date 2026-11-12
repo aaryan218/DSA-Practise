@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -154,6 +155,7 @@
 | [0011-container-with-most-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -167,6 +169,7 @@
 | [0010-regular-expression-matching](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -226,6 +229,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -258,6 +262,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aaryan218/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Design
